@@ -23,5 +23,5 @@ This project uses **CrewAI** to manage three distinct agents in a sequential pip
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/astroophilliiiiiiiii/Agentic-Quant-Engine
 cd Agentic-Quant-Engine
